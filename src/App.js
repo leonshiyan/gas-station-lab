@@ -1,8 +1,10 @@
 import './App.css';
+import Station from './Station';
 
 function App() {
   return (
-    <div >
+    <div>
+      <Station brandName = "Esso"/>
     </div>
   );
 }
